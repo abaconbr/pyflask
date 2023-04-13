@@ -32,13 +32,6 @@ heroku installed to /usr/local/bin/heroku
 git init
 git add .
 git commit -m "first commit"
-heroku login
-user:abaco@ulike.jp
-pass:Rwl19740328!
-
-GitHub: https://github.com/
-user:abaconbr
-pass:Rwl19740328!
 
 heroku create pyflask
 git remote -v
